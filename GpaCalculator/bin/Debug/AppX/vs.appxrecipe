@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JAHANZEB</Machine>
+    <WindowsUser>Jahanzeb</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>26861JahanzebAJabbar.GPACalculator</PackageIdentityName>
+    <RegisteredManifestChecksum>1582B584C7EEEED6DB2571D4154F7ED7E8BEE3CC3EE2653718775A679A0251DB</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>26861JahanzebAJabbar.GPACalculator_1.1.0.3_neutral__hv86s1f3y7bbr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>26861JahanzebAJabbar.GPACalculator_hv86s1f3y7bbr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>26861JahanzebAJabbar.GPACalculator</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=695139CD-653A-4627-88BA-4251613B18E2</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.3</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-28T13:44:25.090</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\bin\Debug\GpaCalculator.exe">
+      <PackagePath>GpaCalculator.exe</PackagePath>
+      <Modified>2014-06-28T13:44:23.900</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\Assets\2013.jpg">
+      <PackagePath>Assets\2013.jpg</PackagePath>
+      <Modified>2014-06-26T19:30:09.854</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\Assets\cover calculator.png">
+      <PackagePath>Assets\cover calculator.png</PackagePath>
+      <Modified>2014-06-28T11:25:07.982</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-28T11:42:42.363</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-28T11:42:42.388</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-28T11:42:42.414</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\Assets\Logo.scale-80.png">
+      <PackagePath>Assets\Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-28T11:42:38.178</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-28T11:42:46.137</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-28T11:42:46.157</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\Assets\SmallLogo.scale-180.png">
+      <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-28T11:42:46.165</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\Assets\SmallLogo.scale-80.png">
+      <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-28T11:42:42.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\Assets\SmallLogo.target-16.png">
+      <PackagePath>Assets\SmallLogo.target-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-28T11:42:46.171</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\Assets\SmallLogo.target-256.png">
+      <PackagePath>Assets\SmallLogo.target-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-28T11:42:46.212</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\Assets\SmallLogo.target-32.png">
+      <PackagePath>Assets\SmallLogo.target-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-28T11:42:46.191</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\Assets\SmallLogo.target-48.png">
+      <PackagePath>Assets\SmallLogo.target-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-28T11:42:46.197</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-28T11:48:52.058</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-28T11:49:29.992</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-28T11:50:06.977</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-28T11:52:56.527</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\Assets\Square310x310Logo.scale-140.png">
+      <PackagePath>Assets\Square310x310Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-28T11:52:34.875</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\Assets\Square310x310Logo.scale-180.png">
+      <PackagePath>Assets\Square310x310Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-28T11:52:10.231</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\Assets\Square310x310Logo.scale-80.png">
+      <PackagePath>Assets\Square310x310Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-28T11:53:24.525</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-28T11:42:47.026</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-28T11:42:47.032</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-28T11:42:47.061</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-28T11:58:51.693</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\Assets\Wide310x150Logo.scale-140.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-28T11:58:29.799</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\Assets\Wide310x150Logo.scale-180.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-28T11:58:01.792</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\Assets\Wide310x150Logo.scale-80.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-28T11:59:13.180</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2014-06-28T07:50:19.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-06-27T10:58:39.827</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\bin\Debug\simpleGPA.xbf">
+      <PackagePath>simpleGPA.xbf</PackagePath>
+      <Modified>2014-06-28T10:51:26.614</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\bin\Debug\GpaCalculator_marks.xbf">
+      <PackagePath>GpaCalculator_marks.xbf</PackagePath>
+      <Modified>2014-06-28T09:59:54.550</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-06-28T12:01:55.344</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-06-28T13:44:24.722</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

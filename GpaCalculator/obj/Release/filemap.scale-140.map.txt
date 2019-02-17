@@ -1,0 +1,12 @@
+﻿[ResourceMetadata]
+"ResourceId"			"filemap.scale-140"
+"ResourceDimensions"		"scale-140"
+
+[Files]
+"C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\obj\Release\filemap.scale-140.pri"			"resources.pri"
+"C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\obj\Release\PackageLayout\Assets\Wide310x150Logo.scale-140.png"			"Assets\Wide310x150Logo.scale-140.png"
+"C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\obj\Release\PackageLayout\Assets\StoreLogo.scale-140.png"			"Assets\StoreLogo.scale-140.png"
+"C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\obj\Release\PackageLayout\Assets\Square310x310Logo.scale-140.png"			"Assets\Square310x310Logo.scale-140.png"
+"C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\obj\Release\PackageLayout\Assets\SplashScreen.scale-140.png"			"Assets\SplashScreen.scale-140.png"
+"C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\obj\Release\PackageLayout\Assets\SmallLogo.scale-140.png"			"Assets\SmallLogo.scale-140.png"
+"C:\Users\Jahanzeb\documents\visual studio 2013\Projects\GpaCalculator\GpaCalculator\obj\Release\PackageLayout\Assets\Logo.scale-140.png"			"Assets\Logo.scale-140.png"
